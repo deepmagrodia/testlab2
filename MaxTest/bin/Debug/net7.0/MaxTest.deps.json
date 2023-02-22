@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MaxTest/1.0.0": {
+        "dependencies": {
+          "MaxLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MaxTest.dll": {}
+        }
+      },
+      "MaxLibrary/1.0.0": {
+        "runtime": {
+          "MaxLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaxLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
